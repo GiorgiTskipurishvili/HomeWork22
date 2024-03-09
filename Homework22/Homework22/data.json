@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 0,
+    "CreateDate": "2024-02-09T07:14:55.638Z",
+    "FirstName": "John",
+    "LastName": "Doe",
+    "JobPosition": "IT",
+    "Salary": 1110.0,
+    "WorkExperience": 20.0,
+    "PersonAddress": {
+      "Id": 0,
+      "Country": "Geo",
+      "City": "Tbilisi",
+      "HomeNumber": "123"
+    }
+  }
+]
